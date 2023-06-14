@@ -1,9 +1,9 @@
 /*
                                                                   A. In Search of an Easy Problem
-                                                                  time limit per test1 second
-                                                                  memory limit per test256 megabytes
-                                                                  inputstandard input
-                                                                  outputstandard output
+                                                                  time limit per test:  1 second
+                                                                  memory limit per test:  256 megabytes
+                                                                  input:  standard input
+                                                                  output: standard output
                                                                   
 When preparing a tournament, Codeforces coordinators try treir best to make the first problem as easy as possible. 
 This time the coordinator had chosen some problem and asked n people about their opinions. Each person answered whether this problem is easy or hard.
